@@ -1,9 +1,15 @@
+
+
+![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/Jodfge6qDsqkDtvyTvvPlRUdkuQVoI1q85Y6aisbFNbL9L9ItJX-Suof6AHMfZYAxFi_cRUTo4vrQMhFJONLJ-3f4LnlmcwaQH9EbOjTpTtloahkfnJcz_BP8jVHGgts-D1BtpYQtAFcdfWjN_bMrEHyUjvR4gsTdNsl42YW0DSmeVW_fIByB9kdlojxXh56OSM_WO6zBmtp7UXQxtxkYlPZX6UWMGPz8eU-TuDf0s13XAPpDXtKwkFgaOSORAGynLqKNP6gdHAKw7hkv5ua92XOwrrsJ29ayYzK_Q4sU1MMsKlAUOQ9kaXnzyNoUs2Zp7hwAcy-GnBaF-Ke9QObVKQQFH9PGNGi6q6nABDysV-9YCwcjtmtFUrxrEu8hMprsDVKYnZhjIug1TNCWLqrLA1-UXXK0NU2VYvouvP_Ur57ZLSEVxaSy6rcHKphC_TlNdabP6_HffabDz2T75Vn8r9VFan2gM4yk6vbgHrcr68zgzs4jSC85fxs0c3QPtqUt6IErp5zf6a0x6zX-4iipUn74xP0tuGyyUlfu0-qgZMw5aOs2hWkWjIsypCEVKTEkRB5p9eiA2U5CanaUZbxLMFitUimlR5uyWS4wDHVXuAkxtGBXi_sIzq_IFONi560wFtzZq0WQzLCS7rthGxpVmcgs0slpQH5Du3NV4cdYnFpEeLhFp0HMkU9jCLbmoxP8XDDwwmOtw_fMZPvyw=w919-h540-no?authuser=0)
+
+
+
 <h1 align="center">Hi there, I'm Snaye 👋🏾 👩🏾‍💻</h1>
 
 
 I'm a software engineer who is passionate about participating in hackathons., creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Django, and GraphQL. My interest in the React ecosystem led me to be placed in top 10 international hackathon <a href="http://www.science.unizulu.ac.za/cs/unizulu-student-in-top-ten-of-international-hackathon/">UNIZULU student in top ten of international hackathon</a>. I led the Unizulu team that won the CSIR Data Science Hackathon  <a  href="http://www.science.unizulu.ac.za/unizulu-takes-3rd-place-in-csir-datathon-challenge/"> UNIZULU Takes 3rd Place in CSIR Datathon Challenge</a>.I represented the University of Zululand's Computer Science department at the 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE) held in Madrid, Spain, and presented my deep learning project. In 2021, I got my 3rd Dev Job as a Software Engineer at Hired Remoteli, United States. I was also selected and voted by the public to be one of the top 15 young geeks in South Africa <a href="https://geekulcha.dev/geek/snaye-sotashe"> Top15YoungGeeks🌟</a> based on my involvement in the tech community and using my app to revamp unemployed graduates Resumes. I co-run the CreativeLizard initiative <a href=" https://www.creativelizard.co.za/"> CreativeLizard</a>
 
-![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/Jodfge6qDsqkDtvyTvvPlRUdkuQVoI1q85Y6aisbFNbL9L9ItJX-Suof6AHMfZYAxFi_cRUTo4vrQMhFJONLJ-3f4LnlmcwaQH9EbOjTpTtloahkfnJcz_BP8jVHGgts-D1BtpYQtAFcdfWjN_bMrEHyUjvR4gsTdNsl42YW0DSmeVW_fIByB9kdlojxXh56OSM_WO6zBmtp7UXQxtxkYlPZX6UWMGPz8eU-TuDf0s13XAPpDXtKwkFgaOSORAGynLqKNP6gdHAKw7hkv5ua92XOwrrsJ29ayYzK_Q4sU1MMsKlAUOQ9kaXnzyNoUs2Zp7hwAcy-GnBaF-Ke9QObVKQQFH9PGNGi6q6nABDysV-9YCwcjtmtFUrxrEu8hMprsDVKYnZhjIug1TNCWLqrLA1-UXXK0NU2VYvouvP_Ur57ZLSEVxaSy6rcHKphC_TlNdabP6_HffabDz2T75Vn8r9VFan2gM4yk6vbgHrcr68zgzs4jSC85fxs0c3QPtqUt6IErp5zf6a0x6zX-4iipUn74xP0tuGyyUlfu0-qgZMw5aOs2hWkWjIsypCEVKTEkRB5p9eiA2U5CanaUZbxLMFitUimlR5uyWS4wDHVXuAkxtGBXi_sIzq_IFONi560wFtzZq0WQzLCS7rthGxpVmcgs0slpQH5Du3NV4cdYnFpEeLhFp0HMkU9jCLbmoxP8XDDwwmOtw_fMZPvyw=w919-h540-no?authuser=0)
+
 
 
 
