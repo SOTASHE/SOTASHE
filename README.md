@@ -15,3 +15,12 @@ I'm a software engineer who is passionate about participating in hackathons., cr
 
 
 
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning and sharing in public on <a href="https://snaye.hashnode.dev/">my blog</a> or <a href="">Twitter</a> 📹 ✍🏾
+
+- Sharing updates on <a href="https://www.linkedin.com/in/snaye-sotashe-581964183">LinkedIn</a> 💼
+
+
+
