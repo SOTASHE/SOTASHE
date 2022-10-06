@@ -44,7 +44,6 @@ I'm a software engineer who is passionate about participating in hackathons., cr
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SOTASHE&&theme=xcode)](https://github.com/SOTASHE)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SOTASHE&show_icons=true&locale=en&theme=tokyonight" alt="SOTASHE" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SOTASHE&&theme=tokyonight" alt="SOTASHE" /></p>
 
